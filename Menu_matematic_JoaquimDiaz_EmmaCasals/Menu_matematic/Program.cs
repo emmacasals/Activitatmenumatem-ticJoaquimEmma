@@ -26,7 +26,7 @@ static int MCD(int num)
 static int MCM(int num)
 {
 }
-
+//WEmmackvfvn
 //Factorial
 //Aquesta es la més correcta
 static int Factorial(int num)
