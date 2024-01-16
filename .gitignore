@@ -1,0 +1,8 @@
+obj/
+bin/
+.vs/
+*.bin
+*.exe
+*.swp
+*.suo
+v17/
