@@ -10,9 +10,20 @@ menú.*/
 //MAIN:Fem la crida de les altres funcions 
 static void Main(string[] args)
 {
-    
+    int R=1;
+    do
+        Menu(R);
+    while (R != 0);
 }
+static int Menu(int R)
+{
 
+    R = Convert.ToInt32(Console.ReadLine());
+    //Crear un menu. Et te que tornar el numero que has posat en el menu per saber quan el programa pot parar (quan poses 0).
+    if (R == 0)
+        return R;
+    return R;
+}
 //Maxim
 static int Maxim(int num)
 {
