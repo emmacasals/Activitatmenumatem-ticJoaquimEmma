@@ -10,7 +10,7 @@ menú.*/
 //MAIN:Fem la crida de les altres funcions 
 static void Main(string[] args)
 {
-
+    
 }
 
 //Maxim
@@ -21,10 +21,12 @@ static int Maxim(int num)
 //Mcd
 static int MCD(int num)
 {
+
 }
 //Mcm
 static int MCM(int num)
 {
+
 }
 
 //Factorial
@@ -66,13 +68,16 @@ static double Combinatori(int n, int m)
 //MostrarDivisorMajor
 static int MCD(int num)
 {
+
 }
 //EsPrimer
 static int MCD(int num)
 {
+
 }
 //NPrimersPrimers
 //COMBINATORI FACTORIAL
 static double Combinatori(int n, int m)
 {
+
 }
